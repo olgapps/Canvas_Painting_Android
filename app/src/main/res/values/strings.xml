@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CanvasPainting</string>
+    <string name="canvasContentDescription">Application to draw lines, drag objects</string>
+</resources>
